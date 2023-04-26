@@ -1,3 +1,4 @@
+#This user defined module was a part of the University of Michigan course on Cousera called "Data Collection and Processing with Python"
 import requests
 import json
 
